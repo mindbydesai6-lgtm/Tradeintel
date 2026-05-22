@@ -1,0 +1,6 @@
+{
+  "name": "IndicTrade AI",
+  "description": "Elite institutional-grade market intelligence, analytics, and AI-powered trade tracking system for Indian and global financial markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
